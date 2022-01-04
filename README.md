@@ -1,2 +1,2 @@
 # PythonDS
-Custom Python Environment for applied Data Science
+Custom and small Python Environment for applied Data Science using miniconda
